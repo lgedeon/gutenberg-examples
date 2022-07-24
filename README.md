@@ -76,3 +76,25 @@ Block examples are stored in the `blocks-jsx` and `blocks-non-jsx` directories w
 -   `npm run build:all` - Generates production files for all examples
 
 <br/><br/><p align="center"><img src="https://s.w.org/style/images/codeispoetry.png?1" alt="Code is Poetry." /></p>
+
+## Example List
+
+The examples in this project are grouped according to type. Examples that:
+
+- Use jsx / esnext require a build process and are stored in the `blocks-jsx` directory.
+- Do not require a build process are stored in the `blocks-non-jsx` directory.
+- Do not use a block so they require a seperate build process and are stored in the `non-block-examples` directory.
+
+Examples in each directory with the same number do the same thing with or without a particular build process.
+
+### Blocks that Use JSX
+
+- todo: add links to readme files added as part of https://github.com/WordPress/gutenberg-examples/issues/45
+
+### Blocks without JSX (no build required)
+
+
+### Non-block Examples
+
+
+
